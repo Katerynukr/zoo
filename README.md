@@ -33,7 +33,7 @@
 - animals have a field (drop down) from which it is possible to select managers and spiecies
 - validation of fileds
 - notes field for truckscreated with redactor
-- protection agains SQL 
+- protection agains SQL injection
 
 
 ### project was made with Symfony framework
